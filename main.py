@@ -1,6 +1,11 @@
 import unittest
 
 
+# gian@pulsem.me
+# tim@pulsem.me
+# do-py
+
+
 class Replacer(object):
     """
     A class to replace characters in a string.
@@ -57,7 +62,7 @@ class Replacer(object):
 
 
     def replace_multiple(self, config):
-        """Replaced n characters in a string multiple times
+        """Replace n characters in a string multiple times
     
         Parameters
         ----------
