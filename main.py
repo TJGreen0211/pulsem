@@ -1,11 +1,6 @@
 import unittest
 
 
-# gian@pulsem.me
-# tim@pulsem.me
-# do-py
-
-
 class Replacer(object):
     """
     A class to replace characters in a string.
